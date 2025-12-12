@@ -1,5 +1,5 @@
 (function(){
-var AvNs = {SIGNATURE:"7D8B79A2-8974-4D7B-A76A-F4F29624C06Bva48CTuN7Ys1JNmbDV7xOyNuuPgJq7M-6l4dqNpgeGHKI1WuoDTD2Vg6XyC5Z1--LTF2OcKmHOZxzDKigwe4Qw",PREFIX:"https://gc.kis.v2.scr.kaspersky-labs.com/",INJECT_ID:"FD126C42-EBFA-4E12-B309-BB3FDD723AC1",RESOURCE_ID:"E3E8934C-235A-4B0E-825A-35A08381A191",IsWebExtension: function(){return false;}}; var AvNs = (function IeJsonMain(context) 
+var AvNs = {SIGNATURE:"7D8B79A2-8974-4D7B-A76A-F4F29624C06BeT8m2d2l-gxe67R6s8iruWFWk-Kma55Mfr4XFhC0a7y3r7Ox8RvryZ8BeSNUs7RJDJjSuz0w8ClxUGVqATKEog",PREFIX:"https://gc.kis.v2.scr.kaspersky-labs.com/",INJECT_ID:"FD126C42-EBFA-4E12-B309-BB3FDD723AC1",RESOURCE_ID:"E3E8934C-235A-4B0E-825A-35A08381A191",IsWebExtension: function(){return false;}}; var AvNs = (function IeJsonMain(context) 
 {
     function GetClass(obj) {
         if (typeof obj === "undefined")
